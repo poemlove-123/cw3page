@@ -1,1 +1,19 @@
-<!-- SurVis index.html placeholder -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>SurVis - Literature Overview</title>
+  <link rel="stylesheet" href="https://marcstreit.github.io/survis/css/survis.css" />
+</head>
+<body>
+  <script src="https://marcstreit.github.io/survis/js/d3.v3.min.js"></script>
+  <script src="https://marcstreit.github.io/survis/js/crossfilter.min.js"></script>
+  <script src="https://marcstreit.github.io/survis/js/survis.js"></script>
+  <script>
+    window.onload = function () {
+      loadSurVis("data/data.json");
+    };
+  </script>
+</body>
+</html>
