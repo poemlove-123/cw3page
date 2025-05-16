@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Logic Games are Complete for Game Logics",
+    "authors": [
+      "Johan van Benthem"
+    ],
+    "year": 2001,
+    "doi": "10.1023/A:1027306910434",
+    "url": "https://staff.science.uva.nl/~johan/GL=LG.pdf",
+    "keywords": [
+      "Game Semantics"
+    ],
+    "abstract": "Introduces model construction games, connecting them to semantic tableaux and dialogical logic. Establishes a success lemma linking open branches to satisfiability.",
+    "id": "Benthem2001LogicGamesareComplet"
+  },
+  {
+    "title": "Game Semantics for First-Order Logic",
+    "authors": [
+      "Olivier Laurent"
+    ],
+    "year": 2010,
+    "doi": "10.2168/LMCS-6(4:3)2010",
+    "url": "https://perso.ens-lyon.fr/olivier.laurent/folgames.pdf",
+    "keywords": [
+      "Game Semantics"
+    ],
+    "abstract": "Formalizes FOL game semantics using HO/N-models. Emphasizes interactive interpretation of quantifiers and logical connectives.",
+    "id": "Laurent2010GameSemanticsforFirs"
+  },
+  {
+    "title": "Game-Theoretical Semantics for First-Order Logic",
+    "authors": [
+      "Lund University"
+    ],
+    "year": 2000,
+    "doi": "",
+    "url": "https://fileadmin.cs.lth.se/ai/psfiles/GameTheoreticalSemantics.pdf",
+    "keywords": [
+      "Game Semantics"
+    ],
+    "abstract": "Technical note explaining game-theoretical semantics with focus on quantifier independence and strategy-based interpretations.",
+    "id": "University2000GameTheoreticalSeman"
+  },
+  {
+    "title": "Game Semantics",
+    "authors": [
+      "Wikipedia contributors"
+    ],
+    "year": 2024,
+    "doi": "",
+    "url": "https://en.wikipedia.org/wiki/Game_semantics",
+    "keywords": [
+      "Game Semantics"
+    ],
+    "abstract": "Overview of game semantics, including formal foundations and applications in logic and computer science.",
+    "id": "contributors2024GameSemantics"
+  },
+  {
+    "title": "First-Order Semantic Tableau",
+    "authors": [
+      "Valentin Goranko"
+    ],
+    "year": 2010,
+    "doi": "",
+    "url": "https://www2.imm.dtu.dk/courses/02286/Slides/FirstOrderLogicSemanticTableauTrans.pdf",
+    "keywords": [
+      "Semantic Tableaux"
+    ],
+    "abstract": "Introduces semantic tableaux for FOL, demonstrating rules and decomposition strategies foundational to model construction games.",
+    "id": "Goranko2010FirstOrderSemanticTa"
+  },
+  {
+    "title": "Automated Model Building",
+    "authors": [
+      "Alexander Leitsch"
+    ],
+    "year": 2004,
+    "doi": "10.1007/978-1-4020-2653-9",
+    "url": "https://www.logic.at/people/leitsch/mbbook.pdf",
+    "keywords": [
+      "Semantic Tableaux"
+    ],
+    "abstract": "Explores heuristics and theoretical boundaries of automated model building within first-order logic.",
+    "id": "Leitsch2004AutomatedModelBuildi"
+  },
+  {
+    "title": "Propositional and First-Order Logic Tableaux: Concept and Heuristics",
+    "authors": [
+      "TUM Logic Group"
+    ],
+    "year": 2019,
+    "doi": "",
+    "url": "https://www21.in.tum.de/teaching/sar/SS20/2.pdf",
+    "keywords": [
+      "Semantic Tableaux"
+    ],
+    "abstract": "Details optimization heuristics for tableaux in FOL and propositional logic, with emphasis on gamma and delta rules.",
+    "id": "Group2019PropositionalandFirs"
+  },
+  {
+    "title": "Automated Model Construction: A Logic-Based Approach",
+    "authors": [
+      "Springer"
+    ],
+    "year": 1990,
+    "doi": "10.1007/BF02022100",
+    "url": "https://doi.org/10.1007/BF02022100",
+    "keywords": [
+      "Semantic Tableaux"
+    ],
+    "abstract": "Connects logical model specification with solvable operations research problems, highlighting translation feasibility.",
+    "id": "Springer1990AutomatedModelConstr"
+  },
+  {
+    "title": "Logic-Based Artificial Intelligence",
+    "authors": [
+      "Michael R. Genesereth",
+      "Nils J. Nilsson"
+    ],
+    "year": 2003,
+    "doi": "",
+    "url": "https://plato.stanford.edu/entries/logic-ai/",
+    "keywords": [
+      "Logic and AI"
+    ],
+    "abstract": "Stanford Encyclopedia entry covering logic-based AI principles, including default reasoning and planning frameworks.",
+    "id": "Genesereth2003LogicBasedArtificial"
+  },
+  {
+    "title": "Logic Tensor Networks",
+    "authors": [
+      "Sami Badreddine",
+      "Artur d'Avila Garcez",
+      "Luciano Serafini",
+      "Matthias Spranger"
+    ],
+    "year": 2020,
+    "doi": "10.48550/arXiv.2012.13635",
+    "url": "https://arxiv.org/abs/2012.13635",
+    "keywords": [
+      "Logic and AI"
+    ],
+    "abstract": "Presents a hybrid approach integrating deep learning with FOL reasoning, enabling differentiable logic constraint satisfaction.",
+    "id": "Badreddine2020LogicTensorNetworks"
+  }
+]
